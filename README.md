@@ -1,7 +1,9 @@
-```git clone git@github.com:timbtimbtimb/reactnative-maplibre-web-bug.git
+```
+git clone git@github.com:timbtimbtimb/reactnative-maplibre-web-bug.git
 cd reactnative-maplibre-web-bug
 npm install --includeDev
-npm run web```
+npm run web
+```
 
 You should be getting the following error
 ```
