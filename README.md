@@ -1,3 +1,5 @@
+https://github.com/maplibre/maplibre-react-native/issues/414
+
 ```
 git clone git@github.com:timbtimbtimb/reactnative-maplibre-web-bug.git
 cd reactnative-maplibre-web-bug
